@@ -32,17 +32,13 @@ Potential future improvements may include:
 
 ## How to Run
 
-1. Clone the repository: `git clone https://github.com/your-username/calculator.git`
+1. Clone the repository: `git clone https://github.com/87abdul/calculator.git`
 2. Open the project in a web server environment (e.g., XAMPP, WampServer).
 3. Access the calculator through a web browser.
 
 ## Contribution Guidelines
 
 Feel free to contribute by submitting bug reports, feature requests, or pull requests. Contributions are welcome!
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
